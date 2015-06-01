@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 400%; /* Размер шрифта в процентах */ 
+   }
+
+
+.Pole {
+	padding-left: 15px;
+	height: 409px; /* Высота блока */
+    width: 800px; /* Ширина блока */
+	background: url(../img/pole.png)
+		}
+
+.Player {	font-size: 13pt ;}
